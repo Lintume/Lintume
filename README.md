@@ -52,7 +52,7 @@ I am currently actively looking for a job.
 ## Employment
 - **SiteCraft** _Feb 2018 - Aug 2022_ - Full-Stack Developer
     - Development of bespoke internal system solutions, using whichever tool is right for the job
-    - Brought Slack, CI, TDD, issue boards and code reviews to the team
+    - Brought Slack, CI, issue boards and code reviews to the team
     - Bug fixes and improvements on existing systems
     - Developed a firm grasp of Laravel, PHP, MySQL, VueJS, API development and consumption
     - Working together with managers and end-users to collect feedback and improve existing systems to make the business more efficient.
