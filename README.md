@@ -28,7 +28,7 @@ I am currently actively looking for a job.
 - **Passionate** - I love learning, and I love developing software. I am fascinated by all things technology, and I know I will be developing software that will shape the future.
 - **Humble** - In my humble opinion...
 - **Patient** - So I've been told... Does not apply to slow technology (computer, internet connection, etc.)
-- **Team worker** - Able to work in a team or alone. At Makers Academy, most of my time was spent pair-programming, of which 4 weeks were spent in a team environment where I'd develop software in teams of 4 people. On my first job I've worked in a much larger team, where communication was essential to delivering satisfactory results. Currently I work in a team of 3, where we all collaborate on everything from infrastructure design to the final code.
+- **Team worker** - Able to work in a team or alone. At second work, most of my time was spent pair-programming, of which 4 weeks were spent in a team environment where I'd develop software in teams of 4 people. On my first job I've worked in a much larger team, where communication was essential to delivering satisfactory results. Currently I work in a team of 3, where we all collaborate on everything from infrastructure design to the final code.
 - **Communication** - Having pair-programmed in expirience, I have learned to effectively communicate technical terms and ideas to my pair partner, as well as understanding the ideas being communicated to me.
 
 ## Project Highlights
