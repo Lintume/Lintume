@@ -18,7 +18,7 @@ I am currently actively looking for a job.
 ## Skills
 
 #### Software development
-- **Languages/Technologies** - PHP, JavaScript, MySQL, Laravel 5+, PostgreSQL, Git, Vue.js, DevOps, Linux, MacOS, JQuery, Docker, С++, AWS, BitBucket, Symfony 3, WordPress, non-relational databases and more...
+- **Languages/Technologies** - PHP, JavaScript, MySQL, Laravel 5+, PostgreSQL, Git, Vue.js, Nova, DevOps, Linux, MacOS, JQuery, Docker, С++, AWS, BitBucket, Symfony 3, WordPress, non-relational databases and more...
 - **Fast learner** - Able to grasp new concepts and technologies really quickly. During the course at Makers Academy, I chose to do team projects in (at the time) unknown languages to boost my learning ability and explore other technologies/languages. 
 - **Debugging** - Able to follow to flow of the program, read the stack trace, hunt down and exterminate any bugs. A keen eye for typos, missing keywords, etc. Although my typing is pretty accurate and the number of typos is very minimal.
 - **Researching** - I found that gazing at the screen doesn't do much, so I've befriended Google and StackOverflow to help me get through the "I don't know" phase. Able to research, read, and make sense of any documentation. 
