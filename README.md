@@ -1,8 +1,8 @@
 ![Status - Available](https://img.shields.io/badge/Status-Available-green.svg)
 
 # Lialia Sakhno
-> _Currently **open** to any opportunities_
-
+<!-- > _Currently **open** to any opportunities_
+ -->
 A passionate _Software Developer_, advocate for lifelong learning and hard work. For me, programming is a natural extension of me. It is difficult for me to separate myself from programming and everything related to computers. I've spent the better part of my life messing around with computers and code, and even if I'd go exploring different career paths (music, photography, retail), I'd always come back to coding. Wrote my first line of code at the age of 13 (Visual Basic), later created some PHP4/MySQL websites for about a year, done a lot of computer troubleshooting for myself, friends and family. Of course, I broke loads of stuff as well... I blame curiosity.
 
 A few years back I got a Master's degree in Information Security at the Kharkiv University of Radioelectronics. There I wrote my first programs on C++. I wrote implementations of encryption algorithms, and the culmination of my studies was the creation of my own, albeit not very complex, but working fast steganographic encryption algorithm on PHP and an analyzer of its effectiveness, which is still available as a website.
