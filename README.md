@@ -51,6 +51,10 @@ I am currently actively looking for a job.
 - **Kharkiv National University of Radioelectronics** _Sept 2013 - Feb 2019_ - Master of Computer Applications (MCA) - information security management
 
 ## Employment
+
+- **OpenDialog AI Ltd** _Sep 2022 - Aug 2023_ - Back End Engineer
+    - OpenDialog is a conversational experience platform for designing chatbots and voice assistants, and integrating them with external systems. My responsibilities include developing and maintaining the core conversation engine, which acts as an orchestrator that enables user interactions and utilizes NLP & LLM models for intent classification and entity extraction.
+     
 - **SiteCraft** _Feb 2018 - Aug 2022_ - Full-Stack Developer
     - Development of bespoke internal system solutions, using whichever tool is right for the job
     - Brought Slack, CI, issue boards and code reviews to the team
