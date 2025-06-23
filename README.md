@@ -108,7 +108,7 @@ Master of Computer Applications (MCA) - Information Security Management
 ## Contact
 
 - 🌐 [pariamonia.in.ua](http://pariamonia.in.ua) (Tech Portfolio)
-- 🎨 [pariamon.art](https://pariamon,art) (Art Portfolio)
+- 🎨 [pariamon.art](https://pariamon.art) (Art Portfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lialia-sakhno/)
 - 📧 [lintume@gmail.com](mailto:lintume@gmail.com)
 - 💻 [GitHub](http://github.com/Lintume)
